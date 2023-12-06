@@ -26,6 +26,10 @@ Bem vindo ao nosso projeto! Esse projeto foi feito durante as aulas de Scripts d
         height="50px" 
     >
     <img 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+        height="50px" 
+    >
+    <img 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
         height="50px"
         style="margin-left: 10px"
